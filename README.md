@@ -4,7 +4,8 @@
 The Paint Application is a simple yet powerful drawing tool built using Python and the Tkinter library. It provides users with an intuitive interface to create drawings, sketches, and designs directly on a canvas. This application is ideal for both beginners and experienced users who want to explore their creativity through digital art.
 
 ## Features
-Multiple Drawing Tools: Choose from a variety of drawing tools, including:
+Multiple Drawing Tools: Choose from a variety of drawing tools, 
+including:
 Pencil: For freehand drawing.
 Line: Draw straight lines with precision.
 Arc: Create curved lines and arcs.
